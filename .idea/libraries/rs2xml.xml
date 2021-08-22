@@ -2,10 +2,12 @@
   <library name="rs2xml">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../Downloads/rs2xml/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../rs2xml/rs2xml.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../Downloads/rs2xml/rs2xml.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/../../rs2xml/rs2xml.jar!/src" />
     </SOURCES>
   </library>
 </component>
